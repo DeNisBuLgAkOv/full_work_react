@@ -5,26 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dd9e992e-0330-404d-85cd-22bcb988ff90" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/PostItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/button/MyButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/button/MyButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/UI/input/MyInput.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/style/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/input/MyInput.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PostList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PostList.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UI/input/MyInput.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UI/input/MyInput.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +62,10 @@
       <workItem from="1655653264946" duration="596000" />
       <workItem from="1655657676272" duration="1003000" />
       <workItem from="1655678120586" duration="1327000" />
+      <workItem from="1655721476743" duration="2755000" />
+      <workItem from="1655734925448" duration="1850000" />
+      <workItem from="1655744228983" duration="599000" />
+      <workItem from="1655758538017" duration="2661000" />
     </task>
     <servers />
   </component>
